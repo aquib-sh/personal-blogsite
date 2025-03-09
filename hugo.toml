@@ -1,4 +1,14 @@
 baseURL = 'https://example.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Aquib Shaikh'
 theme = 'ananke'
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about-me/"
+  weight = 1
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
+      
