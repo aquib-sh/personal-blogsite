@@ -81,7 +81,7 @@ description='Specialized in high-performance systems and financial technology wi
             </div>
         </div>
     </div>
-    <div>
+    <div class=beyond-the-screen>
         <h3><i class="fas fa-mountain"></i> Beyond the Screen</h3>
         <p>When not architecting systems:</p>
         <ul class="feature-list">
@@ -100,7 +100,7 @@ description='Specialized in high-performance systems and financial technology wi
     </div>
 </div>
 
-<div class="meeting-section">
+<div class="meeting-section" hidden=true>
     <h2><i class="fas fa-calendar-alt"></i> Schedule a Meeting</h2>
     <p>Interested in working together? Let's discuss how I can help with your project.</p>
     <div class="meeting-options">
@@ -123,7 +123,7 @@ description='Specialized in high-performance systems and financial technology wi
     <div class="cta-buttons">
         <a href="#contact" class="cta-btn"><i class="fas fa-handshake"></i> Collaboration</a>
         <a href="https://github.com/aquib-sh" class="cta-btn" target="_blank"><i class="fas fa-code-branch"></i> Code Adventures</a>
-        <a href="/resume.pdf" class="cta-btn" target="_blank"><i class="fas fa-file-alt"></i> Download Resume</a>
+        <a href="https://drive.google.com/file/d/1c4Yo3Krj3qR_DkUvOXAhfNBjtGUd_Uh-/view?usp=sharing" class="cta-btn" target="_blank"><i class="fas fa-file-alt"></i> Resume</a>
     </div>
 </div>
 
