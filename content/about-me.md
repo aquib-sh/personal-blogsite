@@ -12,7 +12,7 @@ description='Architecting high-performance backend systems for financial technol
 
 <div class="profile-header">
     <div class="profile-card">
-        <img src="/images/aquib.jpg" alt="Aquib Shaikh" class="profile-img">
+        <img src="/images/aquib2.jpg" alt="Aquib Shaikh" class="profile-img">
         <h1>Aquib Shaikh</h1>
         <p class="subtitle">Backend Engineer & Microservices Architect</p>
         <div class="profile-social">
