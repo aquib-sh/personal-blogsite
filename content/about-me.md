@@ -1,6 +1,6 @@
 +++
 date = '2025-03-09T22:05:38+05:30'
-draft = true
+draft = false
 title = 'Aquib Shaikh | Backend Engineer & System Architect'
 featured_image = '/images/palghar_dawn.jpg'
 description='Architecting high-performance backend systems for financial technology and scalable platforms.'
